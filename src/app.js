@@ -1,4 +1,4 @@
-const express = require('express');
+const express = require('express')
 const store = require('./lib/store');
 
 const app = express();
